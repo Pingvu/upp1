@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\upp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\upp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\upp1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\upp1.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\upp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\bin\Debug\net6.0\upp1.exe
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\bin\Debug\net6.0\upp1.deps.json
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\bin\Debug\net6.0\upp1.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\bin\Debug\net6.0\upp1.dll
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\bin\Debug\net6.0\upp1.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\upp1.dll
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\refint\upp1.dll
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\upp1.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\upp1.genruntimeconfig.cache
+C:\Users\Admin\Documents\Visual Studio 2022\upp1\obj\Debug\net6.0\ref\upp1.dll
